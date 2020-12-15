@@ -3,7 +3,7 @@ library(selectiveInference)
 library(Rmpfr)
 
 # Set working directory
-setwd("W:\OA_GaitRetraining\Matlab\R\KAMreducerAnalysis\forGithub")
+setwd("W:/OA_GaitRetraining/Matlab/R/KAMreducerAnalysis/forGithub")
 
 # # # # End of User Inputs # # # # # #
 

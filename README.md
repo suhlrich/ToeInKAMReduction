@@ -19,4 +19,4 @@ Feature order in X_TIdiff matrix:
 12) pelvic rotation angle (time of first peak KAM)
 
 ## Running code
-Download code and two csv files. Change working directory in code.
+Download lassoRegression.r and the two csv files. Change working directory in code.
